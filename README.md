@@ -2,16 +2,15 @@
 
 -> Project Objective: <br>
 Heart disease is one of the most prevelant disease in the world. Early prediction system can avert the fatalities caused by the same. 
-This project is one small initiative, where a prediction system is built using Tensorflow framework.
+This project is one small initiative, where a prediction system is built using Tensorflow framework. <br>
 
--> Algorithms used:
-(1) Deep Neural Network (DNN) classifier
-(2) Logistic Regression
+-> Algorithms used: <br>
+(1) Deep Neural Network (DNN) classifier <br>
+(2) Logistic Regression <br>
 
--> Libraries used:
-(1) Pandas
-(2) Numpy
-(3) Tensorflow
-(4) Scikit-Learn
-(5) Matplotlib
-(6) Seaborn
+-> Libraries used: <br>
+(1) Pandas <br>
+(2) Tensorflow <br>
+(3) Scikit-Learn <br>
+(4) Matplotlib <br>
+(5) Seaborn
