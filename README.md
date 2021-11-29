@@ -5,7 +5,7 @@ Heart disease is one of the most prevelant disease in the world. Early predictio
 This project is one small initiative, where a prediction system is built using Tensorflow framework. <br>
 
 -> Algorithms used: <br>
-(1) Deep Neural Network (DNN) classifier <br>
+(1) Deep Neural Network (DNN) Classifier <br>
 (2) Logistic Regression <br>
 
 -> Libraries used: <br>
